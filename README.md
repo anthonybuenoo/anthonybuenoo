@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
+
+<div>
+    <a href="https://github.com/anthonybuenoo/anthonybuenoo.git:"></a>
+    
+    <img height="180em" src="https://github-readname-status.vercel.app/api?username=anthonybuenoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="180em" src="" >
+</div>
